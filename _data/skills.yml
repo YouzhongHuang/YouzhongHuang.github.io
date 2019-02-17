@@ -1,19 +1,20 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
+      - MATLAB
       - C++
       - Python
-      - Design Patterns
 
-- name: Mobile Developer Keywords
+- name: Machine Learning Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - Pytorch
+      - TensorFlow
+      - Caffe
+      - openCV
 
-- name: Windows Developer Keywords
+- name: High Performance Developer Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - CUDA
+      - ASM
+      - openMP
+      - BLAS
+      - Eigen
