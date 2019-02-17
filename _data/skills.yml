@@ -1,17 +1,17 @@
-- name: Software Engineer Keywords
+- name: Software Engineer
   keywords:
       - MATLAB
       - C++
       - Python
 
-- name: Machine Learning Keywords
+- name: Machine Learning
   keywords:
       - Pytorch
       - TensorFlow
       - Caffe
       - openCV
 
-- name: High Performance Developer Keywords
+- name: High Performance Developer
   keywords:
       - CUDA
       - ASM
