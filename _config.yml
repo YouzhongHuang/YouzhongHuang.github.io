@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Huang Youzhong
-organization: ""
-organization_url: ""
+#organization: ""
+#organization_url: ""
 github_username: YouzhongHuang
 location: Shanghai, China
 email: huangyouzhong@hotmail.com
