@@ -5,9 +5,9 @@ baseurl:
 url: https://youzhonghuang.github.io
 date_format: "ordinal"
 title: Leon
-subtitle: ""
+subtitle: "优雅编码的艺术"
 description: ""
-keywords: ""
+keywords: "ML | HPC"
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
