@@ -10,7 +10,7 @@ keywords: Python, Jupyter, PDB
 
 > Jupyter是非常优秀的Python开发环境，融合了Python IDE和Markdown
 
-[TOC]
+{:toc}
 
 # Jupyer 基础
 
@@ -23,11 +23,11 @@ keywords: Python, Jupyter, PDB
 ## 两种Tab
 > 不懂就Tab
 * `Tab` 自动补全，列出类成员
-* `Shift-Tab` **tooltip**，详细信息，有惊喜 `👍`
+* `Shift-Tab` **tooltip**，详细信息，有惊喜 
 
 ## 三种Enter
 * `Enter` 换行`@编辑模式`，或进入编辑模式`@命令模式`
-* `Ctrl-Enter` 运行cell `👍`
+* `Ctrl-Enter` 运行cell 
 * `Shift-Enter` 运行cell，并跳到下一cell
 
 ## 列出所有
@@ -46,43 +46,6 @@ dir()
 
 ## 注释
 * `Ctrl-/`
-
-# PDB调试
-
-## 经典方法一
-
-- 不需要修改源代码，直接开始调试
-- 缺点是从入口处开始调试
-- 运行方式
-
-```bash
->> python -m pdb test.py
-```
-
-## 经典方法二
-
-```python
-import pdb
-...
-pdb.run('command')
-...
-```
-
-```python
-import pdb
-...
-pdb.set_trace()
-...
-```
-
-将在pdb中调试command
-
-参考：https://docs.python.org/3.5/library/pdb.html#debugger-commands
-
-## Jupyter魔法方法
-
-- 在cell的首行添加`%%debug`
-- 运行该cell，即可进入调试模式`👍`
 
 # Jupyter Magic
 
@@ -166,4 +129,41 @@ pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 > 参考：
 > https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/
 > https://www.jianshu.com/p/dacc6acba00b
+
+# PDB调试
+
+## 经典方法一
+
+- 不需要修改源代码，直接开始调试
+- 缺点是从入口处开始调试
+- 运行方式
+
+```bash
+>> python -m pdb test.py
+```
+
+## 经典方法二
+
+```python
+import pdb
+...
+pdb.run('command')
+...
+```
+
+```python
+import pdb
+...
+pdb.set_trace()
+...
+```
+
+将在pdb中调试command
+
+参考：https://docs.python.org/3.5/library/pdb.html#debugger-commands
+
+## Jupyter魔法方法
+
+- 在cell的首行添加`%%debug`
+- 运行该cell，即可进入调试模式
 
