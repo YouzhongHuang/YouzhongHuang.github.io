@@ -51,7 +51,9 @@ dir()
 # Jupyter Magic
 
 > **`约定`**：`%%`开头的命令作用于整个ceil，`%`开头的作用于当前行
+
 ## List all magic
+
 ```python
 %lsmagic
 ```
