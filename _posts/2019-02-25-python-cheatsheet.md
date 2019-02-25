@@ -6,11 +6,13 @@ description: 一份简明的 Jupyter Python 笔记与教程
 keywords: Python, Jupyter, PDB
 ---
 
-[TOC]
+
 
 > Jupyter是非常优秀的Python开发环境，融合了Python IDE和Markdown
 
-# Jupyer 使用
+[TOC]
+
+# Jupyer 基础
 
 ## 两种模式
 
