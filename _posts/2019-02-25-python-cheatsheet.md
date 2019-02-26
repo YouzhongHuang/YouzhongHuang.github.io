@@ -16,12 +16,14 @@ keywords: Python, Jupyter, PDB
 ## 两种模式
 
 > 类似vi
+
 * 命令模式：`Esc`键进入
 * 编辑模式：`Enter`键进入
 
 ## 两种Tab
 > 不懂就Tab
-* `Tab` 自动补全，列出类成员
+
+* * `Tab` 自动补全，列出类成员
 * `Shift-Tab` **tooltip**，详细信息，有惊喜 
 
 ## 三种Enter
