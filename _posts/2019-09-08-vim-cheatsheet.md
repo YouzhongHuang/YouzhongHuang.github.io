@@ -66,7 +66,7 @@ keywords: Vim, Linux
 
 简单的说，我们可以将这三个模式想成底下的图标来表示：
 
-![img](/_posts/assets/vim-vi-workmodel.png)
+![img](/images/assets/vim-vi-workmodel.png)
 
 
 
@@ -78,5 +78,5 @@ keywords: Vim, Linux
 
 # 速记键盘图
 
-![img](/_posts/assets/vi-vim-cheat-sheet-sch.gif)
+![img](/images/assets/vi-vim-cheat-sheet-sch.gif)
 
