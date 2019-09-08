@@ -66,7 +66,7 @@ keywords: Vim, Linux
 
 简单的说，我们可以将这三个模式想成底下的图标来表示：
 
-
+![img](/images/wiki/breaststroke.png)
 
 ![img](images/wiki/breaststroke.png)
 
